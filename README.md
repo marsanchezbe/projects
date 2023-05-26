@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mar</h1>
-<h3 align="left">A passionate about data, design and business allows me to create powerful analysis and compelling storytelling to enable better decision-making processes</h3>
+<h3 align="left">A marketing specialist with more than 5 years in the loop</h3>
 
 - 🔭 I’m currently working on [data visualization projects](https://public.tableau.com/app/profile/mar.s.nchez)
 
